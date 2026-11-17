@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ajmarvingomez
+- 👋 Hi, I’m @kisforkasama
 - 👀 I’m interested in Web Development and Organizing.
 - 🌱 I’m currently learning how to build a business, AI agentic frameworks, and community building.
 - 💞️ I’m looking to collaborate on Next JS projects
@@ -28,6 +28,15 @@
 - [Be A Maker](https://beam.unc.edu/)
 - [On The Stage](https://onthestage.com/)
 - [UNC Strategic Partners](https://partner.unc.edu/)
+
+## Other sites I've built or worked on
+- Instaclustr
+- Spot.io
+- AILA
+- IndustrialAI
+- Sensa
+- Chirotouch
+- Netreveal
 <!---
 ajmarvingomez/ajmarvingomez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
